@@ -1,0 +1,27 @@
+{
+  "name": "backend-deploy",
+  "version": "1.0.0",
+  "description": "A basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush931/BackEnd.git"
+  },
+  "author": "Ayush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayush931/BackEnd/issues"
+  },
+  "homepage": "https://github.com/ayush931/BackEnd#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
